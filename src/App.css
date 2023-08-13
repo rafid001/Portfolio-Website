@@ -10,7 +10,7 @@ body {
   font-size: 10px;
   font-family: "Open Sans";
   box-sizing: border-box;
-  background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  background-image: linear-gradient(100deg, #f5f7fa 0%, #c3cfe2 100%);
 }
 
 .App {
@@ -121,7 +121,7 @@ a {
   width: calc(100% - 69%);
 }
 .work_container .projects_container img {
-  height: 21rem;
+  height: 20rem;
   width: 100%;
   transition: transform 0.5s ease;
 }
