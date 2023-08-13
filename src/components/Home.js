@@ -9,7 +9,7 @@ const Home = () => {
                     Hello, I'm <br/>
                     <span>Rafid Hasan</span>
                 </h1>
-                <p>A computer science student from India. I aim to deepen my understanding in various areas of technology and product development.</p>
+                <p>A computer science student. I aim to deepen my understanding in various areas of technology and product development.</p>
                 
             </div>
         </div>
